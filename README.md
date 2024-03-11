@@ -1,6 +1,7 @@
 # Lambda Function Hub
 
-Welcome to the Lambda **Function** Repository!
+<span style="color: #009688;">Welcome to the Lambda **Function** </span> Repository!
+
 This repository houses a collection of Lambda functions, small units of code designed to perform specific tasks in the AWS cloud environment. Lambda functions are ideal for event-driven and serverless computing scenarios, offering scalability, flexibility, and cost-effectiveness.
 ### Key Features:
 - **Diverse Functions:** Explore a variety of Lambda functions tailored for different use cases, including data processing, automation, and integration with other AWS services.
